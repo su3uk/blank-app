@@ -12,4 +12,4 @@ with st.spinner("전체 작업 진행 중..."):
         time.sleep(1)
         progress.progress((i + 1) * 20)
 
-st.success("처리가 모두 끝났습니다!")
+st.success("처리 모두 끝!")
